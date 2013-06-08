@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370570640000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\menu\main.xml
+1370655695186 2723 c9d65f7970cda47e04e9e696913291a594714af7 C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\layout\activity_main.xml
+1370570640000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1370574496000 2516 7858550a4b3ae56cba65710102e39e10d5d2b507 C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\drawable-hdpi\images.jpg
+1370650751884 1099 8f369fd0d423e0c3e7e7a0999b582ff0a59f26c8 C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\values\values.xml
+1370570640000 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\values-v11\values.xml
+1370570640000 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\values-v14\values.xml
+1370570640000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1370570640000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1370570640000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1370570640000 130 90e37035f35f83953c491e73e930b7aea297a472 C:\Users\Nathan\AndroidStudioProjects\LearningAndroidProject\LearningAndroid\build\res\all\debug\values-sw720dp-land\values.xml
